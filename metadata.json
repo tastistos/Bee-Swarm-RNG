@@ -1,0 +1,6 @@
+{
+  "name": "Bee Swarm RNG",
+  "description": "A 2D mobile bee hive management, pollen gathering, and RNG swarm simulator game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
